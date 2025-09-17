@@ -1,7 +1,0 @@
-from tensorflow.keras.models import load_model
-
-# Load your existing h5 model
-model = load_model("simple_rnn_imdb.h5")
-
-# Save in new keras v3 format
-model.save("simple_rnn_imdb.keras", save_format="keras")
