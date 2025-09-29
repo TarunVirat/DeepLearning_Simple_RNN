@@ -1,3 +1,9 @@
+
+## 🌐 Live App
+Try the deployed version here:  
+👉 [IMDB Sentiment App](https://deeplearningsimplernn-wzvr5mql9a5jez9d34mvkr.streamlit.app/)
+
+
 # 🎬 IMDB Sentiment Analysis with Simple RNN
 
 This project uses a **Simple Recurrent Neural Network (RNN)** to classify IMDB movie reviews as **positive** or **negative**.  
@@ -46,9 +52,6 @@ Then open `http://localhost:8501/` in your browser.
 
 ---
 
-## 🌐 Live App
-Try the deployed version here:  
-👉 [IMDB Sentiment App](https://deeplearningsimplernn-wzvr5mql9a5jez9d34mvkr.streamlit.app/)
 
 ---
 
